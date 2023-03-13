@@ -29,7 +29,7 @@ hasCJKLanguage        = true
 #     tj51lack        = ''
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+    key = "4966662cdf6a432ba5b5a8e2985ffd88"
 
 [params.images]
     favicon           = "assets/images/favicon.ico"
