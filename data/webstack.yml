@@ -375,6 +375,10 @@
           logo: autojs.png
           url: http://doc.autoxjs.com/
           description: 由AutoJS6发展而来,支持控件、插件,开源免费,比现在的AutoJs好用
+        - title: 冰狐智能
+          logo: 冰狐.png
+          url: https://www.aznfz.com/
+          description: 类似AutoJS，一站式app自动化解决方案，在很大程度上降低了开发门槛和成本、提升了研发效率。
         - title: 致美化
           logo: 致美化.png
           url: https://zhutix.com/
