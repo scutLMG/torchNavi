@@ -32,7 +32,7 @@
       links:
         - title: github
           logo: github.png
-          url: http://mail.qq.com/
+          url: https://github.com/
           description: 全球最大代码托管网站，微软收购后服务很好
         - title: gitee
           logo: gitee.ico
@@ -125,7 +125,7 @@
         - title: 豆瓣
           logo: 豆瓣.ico
           url: https://www.douban.com/
-          description: 电影影评、小说、小组，良莠不齐，互联网特色https://www.asklib.com/
+          description: 电影影评、小说、小组，良莠不齐，互联网特色
         - title: 问答库
           logo: 问答库.ico
           url: https://www.asklib.com/
@@ -336,10 +336,6 @@
           logo: 虎牙.ico
           url: https://www.huya.com/
           description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
 
 
 - taxonomy: 实用工具
@@ -354,7 +350,7 @@
         - title: 秀米
           logo: 
           url: https://xiumi.us/#/
-          description: 写公众号文章，有少量素材可使用https://www.processon.com/
+          description: 写公众号文章，有少量素材可使用
         - title: ProcessOn
           logo: processon.ico
           url: https://www.processon.com/
@@ -511,11 +507,7 @@
         - title: 鸠摩搜书
           logo: jiumo.png
           url: https://www.jiumodiary.com/
-          description: 一个还算好用的搜书网站，资源量还行https://www.asklib.com/
-        - title: 问答库
-          logo: 
-          url: https://www.asklib.com/
-          description: 考试题库
+          description: 一个还算好用的搜书网站，资源量还行
         - title: zlib登录页
           logo: zlib.ico
           url: https://singlelogin.me/
