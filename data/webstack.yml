@@ -23,10 +23,7 @@
       logo: youtube.png
       url: https://www.youtube.com/
       description: YouTube,你是怎么进去的？
-    - title: gitee
-      logo: gitee.ico
-      url: https://gitee.com/
-      description: 国内开源社区，代码托管平台，代码还要被审核，特色特色，聊胜于无
+
         
 - taxonomy: 社区论坛
   icon: fas fa-comments
@@ -49,10 +46,26 @@
           logo: ubuntu.ico
           url: https://ubuntu.com/
           description: Linux发行版之一，鄙视链中间，社区不错，可以一用
-        - title: 
-          logo: 
-          url: 
-          description: 
+        - title: stackoverflow
+          logo: stackoverflow.ico
+          url: https://stackoverflow.com/
+          description: 代码问答社区，这里都问不到大概就是完了
+        - title: CSDN
+          logo: CSDN.ico
+          url: https://www.csdn.net/
+          description: 中文代码社区，一直都用这里大概就是完了
+        - title: 博客园
+          logo: 博客园.ico
+          url: https://www.cnblogs.com/
+          description: 老社区了，中文世界里质量还行的了
+        - title: 掘金
+          logo: 掘金.png
+          url: https://juejin.cn/
+          description: 掘不出什么金来
+        - title: SegmentFault
+          logo: 思否.ico
+          url: https://segmentfault.com/
+          description: 中文stackoverflow，哈哈哈哈，开发问答社区，希望整好点
 
 
     - term: 社交资讯
@@ -81,6 +94,10 @@
           logo: twitter.png
           url: https://twitter.com/
           description: Twitter,国外社交平台,乱糟糟，西方粪坑
+        - title: FaceBook
+          logo: facebook.png
+          url: https://www.facebook.com/
+          description: 粪坑不分高低，垃圾没有国籍
         - title: Instagram
           logo: instagram.ico
           url: https://www.instagram.com/
@@ -97,6 +114,26 @@
           logo: 开源中国.ico
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
+        - title: 萌娘百科
+          logo: 萌娘.png
+          url: https://zh.moegirl.org.cn/
+          description: 太二次元了，我很不懂
+        - title: 简书
+          logo: 简书.ico
+          url: https://www.jianshu.com/
+          description: 低质、蛇皮、知乎式小说化
+        - title: 豆瓣
+          logo: 豆瓣.ico
+          url: https://www.douban.com/
+          description: 电影影评、小说、小组，良莠不齐，互联网特色https://www.asklib.com/
+        - title: 问答库
+          logo: 问答库.ico
+          url: https://www.asklib.com/
+          description: 各种各样的试题数据库
+        - title: 爱发电
+          logo: 爱发电.ico
+          url: https://afdian.net/
+          description: 支持一下，电一电
 
 
 
@@ -106,6 +143,10 @@
           logo: fandom.png
           url: https://www.fandom.com/
           description: FANDOM中文社区，流行文化，游戏维基
+        - title: 书签地球
+          logo: 书签地球.ico
+          url: https://www.bookmarkearth.com/
+          description: 分享书签列表
 
 - taxonomy: 休闲娱乐
   icon: fas fa-gamepad
@@ -285,8 +326,20 @@
           logo: film.png
           url: https://www.1905.com/
           description: 电影频道
-    - term: 轻松一刻
+    - term: 直播平台
       links:
+        - title: 斗鱼
+          logo: 斗鱼.ico
+          url: https://www.douyu.com/
+          description: 
+        - title: 虎牙
+          logo: 虎牙.ico
+          url: https://www.huya.com/
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
 
 
 - taxonomy: 实用工具
@@ -301,13 +354,69 @@
         - title: 秀米
           logo: 
           url: https://xiumi.us/#/
-          description: 写公众号文章，有少量素材可使用
+          description: 写公众号文章，有少量素材可使用https://www.processon.com/
+        - title: ProcessOn
+          logo: processon.ico
+          url: https://www.processon.com/
+          description: 流程图在线画，有免费额度，够轻度使用
+        - title: 幕布
+          logo: 幕布.ico
+          url: https://mubu.com/
+          description: 思维导图在线画
+        - title: 石墨文档
+          logo: 石墨文档.ico
+          url: https://shimo.im/
+          description: 云端office
+        - title: 腾讯文档
+          logo: 腾讯文档.ico
+          url: https://docs.qq.com/desktop/
+          description: 用的人多了，也就不得不用了
+        - title: 阿里云盘
+          logo: 阿里云盘.ico
+          url: https://www.aliyundrive.com/
+          description: 新的云盘，还行
         - title: AutoXjs
           logo: autojs.png
-          url: http://doc..com/
+          url: http://doc.autoxjs.com/
           description: 由AutoJS6发展而来,支持控件、插件,开源免费,比现在的AutoJs好用
-    - term: 没想好
+        - title: 致美化
+          logo: 致美化.png
+          url: https://zhutix.com/
+          description: win主题等美化
+    - term: 爬虫与数据
       links:
+        links:
+        - title: 新站
+          logo: 新站.ico
+          url: https://xz.newrank.cn/
+          description: B站数据分析平台，up后台数据分析
+        - title: 火烧云数据
+          logo: 火烧云数据.png
+          url: https://www.hsydata.com/
+          description: 各平台数据分析，要充会员，一般
+        - title: 飞瓜数据
+          logo: 飞瓜.ico
+          url: https://www.feigua.cn/
+          description: 媒体社交全链路，数据分析，要充会员，免费版能看一部分数据
+    - term: AI与炼丹
+      links:
+        - title: 矩池云
+          logo: 矩池云.ico
+          url: https://matpool.com/
+          description: AI丹炉，便宜，稳定，服务好，容易用
+        - title: AutoDL
+          logo: AutoDL.png
+          url: https://www.autodl.com/
+          description: 有点小贵的丹炉
+        - title: Vast.ai
+          logo: vastai.ico
+          url: https://vast.ai/
+          description: 国外丹炉，如果魔法很稳，那么可以架火一炼，如果梯子易倒，那么丹炉必炸，三思
+        - title: 极客云
+          logo: 极客云.ico
+          url: https://www.jikecloud.net/
+          description: 便宜但抢不到，机子少、型号少，可以一蹲 
+
 
 - taxonomy: 资源素材
   icon: fas fa-folder-open
@@ -377,11 +486,11 @@
           url: https://www.andiamo.co.uk/resources/iso-language-codes/
           description: ISO语言编码
         - title: Fontawesome
-          logo: 
+          logo: fontawesome.ico
           url: https://fontawesome.com/
           description: fontawesome官方,开源图标资源站
         - title: Fontawesome4.0
-          logo: 
+          logo: fontawesome.ico
           url: https://fontawesome.com/v4/
           description: fontawesome旧版,4.0版
         - title: favicongrabber
@@ -389,7 +498,7 @@
           url: https://favicongrabber.com/
           description: 解析抓取网页的图标,开源,但不太好用
         - title: Favicon Finder
-          logo: 
+          logo: 图标提取.ico
           url: https://besticon-demo.herokuapp.com/
           description: 解析抓取网页的图标,开源,比前一个强
 
@@ -459,13 +568,17 @@
           logo: 全历史.ico
           url: https://www.allhistory.com/
           description: 以AI知识图谱为核心引擎，通过高度时空化、关联化数据的方式构造及展现数字人文内容，尤其是历史知识。
+        - title: FreeComputerBook
+          logo: FreeComputerBook.ico
+          url: https://freecomputerbooks.com/
+          description: 免费的电脑书籍
 
     - term: 视频学习
       links: 
     - term: 永远の痛
       links:
         - title: Freemdict论坛
-          logo: 
+          logo: freemdict.png
           url: https://forum.freemdict.com/
           description: 英语词典,英语学习,多语种字词典
 
