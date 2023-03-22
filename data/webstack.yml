@@ -381,7 +381,6 @@
           description: win主题等美化
     - term: 爬虫与数据
       links:
-        links:
         - title: 新站
           logo: 新站.ico
           url: https://xz.newrank.cn/
